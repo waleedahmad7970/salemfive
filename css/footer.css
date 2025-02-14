@@ -200,7 +200,7 @@ footer a {
 
 @media (min-width: 1920px) and (max-width: 2600px) {
     .footer {
-        max-width: 1920px;
+        max-width: 2600px;
         margin: 0 auto;
     }
 
